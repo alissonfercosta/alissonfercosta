@@ -1,19 +1,7 @@
 <h2 align="center">Hi 👋! My name is Alisson and I'm a Backend developer</h2>
 
 
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alissonfercosta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=alissonfercosta&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-
----
-
-  <summary>👨‍💻 More about me</summary>
+  <div align="center">👨‍💻 More about me</div>
 
 - 💬 I graduated in Information Systems from Uninove (2019) and hold a postgraduate degree in Software Engineering (2022) and an MBA in Digital Application Projects (2023). My professional journey began at IBOPE DTM, where, over the course of 3 years and 9 months, I progressed from intern to junior systems analyst, specializing in C# and .NET Core, with a focus on microservices and developing communication applications. Currently, I am a Mid-Level Software Engineer at Pagar.me, concentrating on maintaining legacy applications and developing solutions to optimize system scalability and performance, utilizing tools like DataDog and New Relic.
 
