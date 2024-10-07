@@ -2,17 +2,28 @@
 
 ###
 
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJodmEyOGpsMHhyN25kbjBuaWw4NzhvMHNpOWlnOG1nZHBna2ZzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alissonfercosta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=alissonfercosta&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJodmEyOGpsMHhyN25kbjBuaWw4NzhvMHNpOWlnOG1nZHBna2ZzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
+---
 
-###
+  <summary>👨‍💻 More about me</summary>
 
+- 💬 I graduated in Information Systems from Uninove (2019) and hold a postgraduate degree in Software Engineering (2022) and an MBA in Digital Application Projects (2023). My professional journey began at IBOPE DTM, where, over the course of 3 years and 9 months, I progressed from intern to junior systems analyst, specializing in C# and .NET Core, with a focus on microservices and developing communication applications. Currently, I am a Mid-Level Software Engineer at Pagar.me, concentrating on maintaining legacy applications and developing solutions to optimize system scalability and performance, utilizing tools like DataDog and New Relic.
+
+- In addition to my practical experience, I continually seek to enhance my skills, having completed several courses on Alura, including Unit Testing and Integration, as well as a Python course at FIAP. With basic experience in front-end development and JavaScript, I am always eager to learn and grow in the tech field, aiming to contribute significantly to the success of the teams and projects I am involved in. \o/
+
+
+---
+
+<br/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
@@ -55,6 +66,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alissonfercosta/alissonfercosta/output/snake.svg" alt="Snake animation" />
 
 ###
